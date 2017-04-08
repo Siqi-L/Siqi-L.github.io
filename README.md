@@ -1,2 +1,2 @@
 # Siqi-L.github.io
-personal website
+Siqi Liu's homepage at https://siqi-l.github.io
